@@ -65,13 +65,10 @@
           <mxGeometry x="137.57999999999998" y="220" width="83.71" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CH-ot6qZyjlO4fEg6qcQ-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New User&lt;/h1&gt;&lt;p&gt;Inicia Cadastro&lt;/p&gt;&lt;p&gt;Enviar Cadastro (Retorna informação de validação de email)&lt;/p&gt;&lt;p&gt;Acessa o email e valida o cadastro&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="12" width="340" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="CH-ot6qZyjlO4fEg6qcQ-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New PP&lt;/h1&gt;&lt;p&gt;Inicia Cadastro&lt;/p&gt;&lt;p&gt;Preenche as informações e salva&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="76.28999999999996" y="370" width="220" height="108" as="geometry" />
+          <mxGeometry x="90" y="710" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CH-ot6qZyjlO4fEg6qcQ-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Princpais funções&lt;/h1&gt;&lt;div&gt;Envio de Email com o PP preenchido e em formato pdf&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;* Ao enviar PP, salvar email nos preferidos para adicionar nas proximas paginas de envio como data&amp;nbsp;&lt;span style=&quot;background-color: rgb(250, 252, 255); color: rgb(23, 28, 31); font-family: monospace; white-space-collapse: preserve;&quot;&gt;datalist&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(250, 252, 255); color: rgb(23, 28, 31); font-family: monospace; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(250, 252, 255); color: rgb(23, 28, 31); font-family: monospace; white-space-collapse: preserve;&quot;&gt;* Opção de salvar modelo como layout, e usar no preenchimento do próximo.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="481" width="270" height="208" as="geometry" />
+          <mxGeometry x="557" y="12" width="270" height="208" as="geometry" />
         </mxCell>
         <mxCell id="ARVa0btEPRFmbiTW9nYL-1" value="node1 on SATSRVHA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="300" width="90" height="90" as="geometry" />
@@ -268,7 +265,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MJmKFxles7q73hkcpPxF-3" value="New User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50.00000000000001" y="740" width="180.57" height="120" as="geometry" />
+          <mxGeometry x="80" y="850" width="180.57" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MJmKFxles7q73hkcpPxF-4" value="Inicia Cadastro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MJmKFxles7q73hkcpPxF-3">
           <mxGeometry y="30" width="180.57" height="30" as="geometry" />
@@ -280,7 +277,7 @@
           <mxGeometry y="90" width="180.57" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MJmKFxles7q73hkcpPxF-7" value="Api" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="326" y="740" width="180" height="120" as="geometry" />
+          <mxGeometry x="356" y="850" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MJmKFxles7q73hkcpPxF-8" value="Gera usuário inativo e envia email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="MJmKFxles7q73hkcpPxF-7">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -305,6 +302,9 @@
         </mxCell>
         <mxCell id="MJmKFxles7q73hkcpPxF-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MJmKFxles7q73hkcpPxF-8" target="MJmKFxles7q73hkcpPxF-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJmKFxles7q73hkcpPxF-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New PP&lt;/h1&gt;&lt;p&gt;Inicia Cadastro&lt;/p&gt;&lt;p&gt;Preenche as informações e salva&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="22" width="220" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
