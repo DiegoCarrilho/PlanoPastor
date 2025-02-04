@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upmeUNGwV4wzVVxZJevL-4" value="Actors" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;swimlaneLine=1;resizable=1;container=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="27" width="160" height="120" as="geometry" />
+          <mxGeometry x="530" y="16" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="upmeUNGwV4wzVVxZJevL-5" value="Usuário" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="upmeUNGwV4wzVVxZJevL-4" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -304,7 +304,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MJmKFxles7q73hkcpPxF-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New PP&lt;/h1&gt;&lt;p&gt;Inicia Cadastro&lt;/p&gt;&lt;p&gt;Preenche as informações e salva&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="27" width="220" height="98" as="geometry" />
+          <mxGeometry x="304" y="10" width="220" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
